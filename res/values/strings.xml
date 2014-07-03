@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="statue_names">
+        <item>The Bather by  Albert Toft</item>
+        <item>Moai Statues, Easter Island </item>
+        <item> The Thinker by Auguste Rodin</item>
+        <item>The Dacre Beasts: The Dolphin</item>
+        <item>Reclining Figure. by Henry Moore</item>
+        <item> Mentuemhat</item>
+    </string-array>
+    <string-array name="statue_1_facts">
+        <item>The Bather is on display in the Victoria and Albert Museum, on loan from the Tate Gallery</item>
+        <item>Toft described his work as \'Idealist\'</item>
+        <item>From 1885 onwards Toft exhibited at the Royal Academy</item>
+        <item>In 1891 Toft was elected to the Art Workers Guild and in 1938 he was elected a fellow to the Royal Society of British Sculptors</item>
+        <item>Albert Toft trained in Wedgwood\'s pottery and in 1881 won a scholarship to study sculpture at the South Kensington Schools</item>
+        <item>Albert Toft was born in  Birmingham 3 June 1862  and died 18 December 1949 in Worthing, Sussex</item>
+    </string-array>
+    <string-array name="statue_2_facts">
+        <item>Moai are monolithic human figures carved by the Rapa Nui people</item>
+        <item>Nearly half are still at Rano Raraku the main moai quarry,hundreds were set on stone platforms called ahu around the island\'s perimeter</item>
+        <item>The moai are chiefly the living faces (aringa ora) of deified ancestors (aringa ora ata tepuna).</item>
+        <item>The tallest moai erected, called Paro, was almost 10 metres high and weighed 82 tons</item>
+        <item>The heaviest  weighed 86 tons; one unfinished Moai if complete would have been approximately 21 metres tall with a weight of about 270 tons.</item>
+        <item>Almost all moai have overly large heads three-eighths the size of the whole statue.</item>
+    </string-array>
+    <string-array name="statue_3_facts">
+        <item>The first cast sculpture can be found in front of Grawemeyer Hall on the University of Louisville Belknap Campus in Louisville, Kentucky.</item>
+        <item>Rodin made the first small plaster version around 1880.</item>
+        <item>There are about 28 full size castings</item>
+        <item>The figure was designed to be seen from below, and is normally displayed on a fairly high plinth</item>
+        <item>Originally named The Poet</item>
+        <item>The first large-scale bronze casting was finished in 1902 but not presented to the public until 1904.</item>
+    </string-array>
+    <string-array name="statue_4_facts">
+        <item>The Dacre Beasts were repainted in 1849 after the fire at Naworth in 1844.</item>
+        <item>The Dolphin is one of four figures,the others are a Red Bull (Yes really),A  ram and A Griffin</item>
+        <item>Commissioned by Lord Dacre sometime between  1507&#8211;1525. Made in Cumbria, England </item>
+        <item>made by unnamed local craftsmen from a single, large oak grown on the estate</item>
+        <item>The banner bears the medieval arms of the Greystoke family</item>
+        <item>Unique survivors of free standing, large-scale wooden heraldic sculpture from the English Renaissance</item>
+    </string-array>
+    <string-array name="statue_5_facts">
+        <item>Henry Moore\'s forms are usually abstractions of the human figure, typically depicting mother-and-child or reclining figures</item>
+        <item>Henry Moore was born 30th July 1898 in Castleford, Yorkshire, died 31st August 1986 Much Hadham Hertfordshire</item>
+        <item>In 1924 Moore won a six-month scholarship in Northern Italy studying great works of Michelangelo, Giotto di Bondone, and other  Old Masters.</item>
+        <item>Moore was born in Castleford, the son of a coal miner.  7th of 8 children</item>
+        <item>a plaster cast of a Toltec-Maya sculptural form was to have a profound effect upon Moore\'s work, becoming the primary motif of his sculpture</item>
+        <item>In 1948 moore won the International Sculpture Prize at the Venice Biennale and was one of the featured artists of the Festival of Britain in 1951.</item>
+    </string-array>
+    <string-array name="statue_6_facts">
+        <item>Mentuemhat (c. 700 BC - c. 650 BC) was a Theban official. He is depicted in many statues and buried in tomb TT34 of the Theban Necropolis.</item>
+        <item>Mentuemhat was the son of Esptah, a Prophet of Amun and Mayor of the City, and Esenkhebi</item>
+        <item>Mentuemhat served during the reigns of Taharqa and Psamtik I.</item>
+        <item>Mentuemhat had 3 wives, Wadjerenes,Eskhons,Shepetenmut</item>
+        <item>Mentuemhat witnessed the rise and fall of the Nubian Dynasty and the Assyrian invasion of Egypt.</item>
+        <item>He was the fourth prophet of Amun at Thebes, called "the Prince of the City,"serving Taharqa,Tanutamun,Necho I, and Psammetichus I </item>
+    </string-array>
+    
+    <string name="credit1">Moai set in the hillside at Rano Raraku Image: Aurbina. Released into public domain </string>
+    <string name="credit2">The Bather by Albert Toft.  Image:Catherine Jones. License CC BY-SA 4.0  </string>
+    <string name="credit3">HenryMoore RecliningFigure 1951 by Solipsist. License CC BY-SA 2.0  </string>
+    <string name="credit4"> The Thinker by Auguste Rodin. Grubleren, in Ny Carlsberg Glyptotek. Image MLWatts. Released into Public domain </string>
+    <string name="credit5">Seated figure of Montemhat, governor of the district of Thebes. Image: Szilas. Released into public domain </string>
+    <string name="credit6">The Dacre Beasts, Dolphin. Image: Catherine Jones. License CC BY-SA 4.0</string>
+
+    <string name="app_name">FartingStatues</string>
+    <string name="action_settings">Settings</string>
+    
+
+    <string name="ad_unit_id">ad mob unit id code goes here</string>
+   
+    <string name="title_activity_credits">CreditsActivity</string>
+    <string name="creditsButtonText">Credits</string>
+    
+    <string name="statue1_content_description">Photograph of the Bather by Albert Toft</string>
+    <string name="statue2_content_description">Photograph of Moai,Easter Island Statue</string>
+    <string name="statue3_content_description">Photograph of The Thinker by Rodin</string>
+    <string name="statue4_content_description">Photograph of The Dacre Beasts Dolphin</string>
+    <string name="statue5_content_description">Photograph of Reclining Figure 1951 by Henry Moore</string>
+    <string name="statue6_content_description">Photograph of Mentuemhat</string>
+</resources>

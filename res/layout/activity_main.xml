@@ -1,0 +1,104 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:orientation="vertical" >
+       
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" >
+
+            <ImageView
+                android:id="@+id/statueImageButton2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:contentDescription="@string/statue2_content_description"
+                android:scaleType="fitXY"
+                android:src="@drawable/moai_rano_raraku_small" />
+
+            <ImageView
+                android:id="@+id/statueImageButton1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/statue1_content_description"
+                android:src="@drawable/the_bather_original_small" />
+
+            <Button
+                android:id="@+id/creditsButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/creditsButtonText" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/statueImageButton5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:contentDescription="@string/statue5_content_description"
+                android:src="@drawable/reclining_figure_small" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+             >
+
+            <ImageView
+                android:id="@+id/statueImageButton3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:contentDescription="@string/statue3_content_description"
+                android:src="@drawable/thethinker_small" />
+
+            <ImageView
+                android:id="@+id/statueImageButton6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:contentDescription="@string/statue6_content_description"
+                android:src="@drawable/montemhat_small" />
+
+            <ImageView
+                android:id="@+id/statueImageButton4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:contentDescription="@string/statue4_content_description"
+                android:src="@drawable/dacredolphin_small" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
